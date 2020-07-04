@@ -1,0 +1,29 @@
+.enjoy {
+    color: green;
+}
+
+.tooMuch {
+    color: red;
+}
+
+.default {
+  color: grey;
+}
+
+.enjoyInput {
+    border-color: green;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.tooMuchInput {
+    border-color: red;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.defaultInput {
+  border-color: grey;
+  border-style: solid;
+  border-width: 1px;
+}
